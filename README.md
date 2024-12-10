@@ -22,7 +22,3 @@ This project consists of a simple and responsive login and sign-up form built us
 
 ## Customization
 You can edit the form fields, change colors, or modify the CSS to suit your needs.
-
----
-
-Feel free to expand or modify this README as needed!
